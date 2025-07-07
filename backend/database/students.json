@@ -1,0 +1,191 @@
+[
+  {
+    "id": "SV001",
+    "name": "Nguyễn Văn A",
+    "age": 21,
+    "gender": "Nam",
+    "email": "nguyenvana@example.com",
+    "phone": "0123456789",
+    "address": "123 Đường ABC, Quận 1, TP.HCM"
+  },
+  {
+    "id": "SV002",
+    "name": "Trần Thị B",
+    "age": 20,
+    "gender": "Nam",
+    "email": "tranthib@example.com",
+    "phone": "0987654321",
+    "address": "456 Đường DEF, Quận 2, TP.HCM"
+  },
+  {
+    "id": "SV003",
+    "name": "Lê Văn C",
+    "age": 21,
+    "gender": "Nam",
+    "email": "levanc@example.com",
+    "phone": "0123456789",
+    "address": "789 Đường GHI, Quận 3, TP.HCM"
+  },
+  {
+    "id": "SV004",
+    "name": "Phạm Thị D",
+    "age": 23,
+    "gender": "Nữ",
+    "email": "phamthid@example.com",
+    "phone": "0987654321",
+    "address": "321 Đường JKL, Quận 4, TP.HCM"
+  },
+  {
+    "id": "SV005",
+    "name": "Nguyễn Văn E",
+    "age": 20,
+    "gender": "Nam",
+    "email": "nguyenvane@example.com",
+    "phone": "0123456789",
+    "address": "123 Đường ABC, Quận 1, TP.HCM"
+  },
+  {
+    "id": "SV006",
+    "name": "Trần Thị F",
+    "age": 22,
+    "gender": "Nữ",
+    "email": "tranthif@example.com",
+    "phone": "0987654321",
+    "address": "456 Đường DEF, Quận 2, TP.HCM"
+  },
+  {
+    "id": "SV007",
+    "name": "Lê Văn G",
+    "age": 21,
+    "gender": "Nam",
+    "email": "levang@example.com",
+    "phone": "0123456789",
+    "address": "789 Đường GHI, Quận 3, TP.HCM"
+  },
+  {
+    "id": "SV008",
+    "name": "Phạm Thị H",
+    "age": 23,
+    "gender": "Nữ",
+    "email": "phamthih@example.com",
+    "phone": "0987654321",
+    "address": "321 Đường JKL, Quận 4, TP.HCM"
+  },
+  {
+    "id": "SV009",
+    "name": "Nguyễn Văn I",
+    "age": 20,
+    "gender": "Nam",
+    "email": "nguyenvani@example.com",
+    "phone": "0123456789",
+    "address": "123 Đường ABC, Quận 1, TP.HCM"
+  },
+  {
+    "id": "SV010",
+    "name": "Trần Thị J",
+    "age": 22,
+    "gender": "Nữ",
+    "email": "tranthij@example.com",
+    "phone": "0987654321",
+    "address": "456 Đường DEF, Quận 2, TP.HCM"
+  },
+  {
+    "id": "SV011",
+    "name": "Lê Văn K",
+    "age": 21,
+    "gender": "Nam",
+    "email": "levank@example.com",
+    "phone": "0123456789",
+    "address": "789 Đường GHI, Quận 3, TP.HCM"
+  },
+  {
+    "id": "SV012",
+    "name": "Phạm Thị L",
+    "age": 23,
+    "gender": "Nữ",
+    "email": "phamthil@example.com",
+    "phone": "0987654321",
+    "address": "321 Đường JKL, Quận 4, TP.HCM"
+  },
+  {
+    "id": "SV013",
+    "name": "Nguyễn Văn M",
+    "age": 20,
+    "gender": "Nam",
+    "email": "nguyenvanm@example.com",
+    "phone": "0123456789",
+    "address": "123 Đường ABC, Quận 1, TP.HCM"
+  },
+  {
+    "id": "SV014",
+    "name": "Trần Thị N",
+    "age": 22,
+    "gender": "Nữ",
+    "email": "tranthinh@example.com",
+    "phone": "0987654321",
+    "address": "456 Đường DEF, Quận 2, TP.HCM"
+  },
+  {
+    "id": "SV015",
+    "name": "Lê Văn O",
+    "age": 21,
+    "gender": "Nam",
+    "email": "levano@example.com",
+    "phone": "0123456789",
+    "address": "789 Đường GHI, Quận 3, TP.HCM"
+  },
+  {
+    "id": "SV016",
+    "name": "Phạm Thị P",
+    "age": 23,
+    "gender": "Nữ",
+    "email": "phamthip@example.com",
+    "phone": "0987654321",
+    "address": "321 Đường JKL, Quận 4, TP.HCM"
+  },
+  {
+    "id": "SV017",
+    "name": "Nguyễn Văn Q",
+    "age": 20,
+    "gender": "Nam",
+    "email": "nguyenvanq@example.com",
+    "phone": "0123456789",
+    "address": "123 Đường ABC, Quận 1, TP.HCM"
+  },
+  {
+    "id": "SV018",
+    "name": "Trần Thị R",
+    "age": 22,
+    "gender": "Nữ",
+    "email": "tranthir@example.com",
+    "phone": "0987654321",
+    "address": "456 Đường DEF, Quận 2, TP.HCM"
+  },
+  {
+    "id": "SV019",
+    "name": "Lê Văn S",
+    "age": 21,
+    "gender": "Nam",
+    "email": "levans@example.com",
+    "phone": "0123456789",
+    "address": "789 Đường GHI, Quận 3, TP.HCM"
+  },
+  {
+    "id": "SV020",
+    "name": "Phạm Thị T",
+    "age": 23,
+    "gender": "Nữ",
+    "email": "phamthit@example.com",
+    "phone": "0987654321",
+    "address": "321 Đường JKL, Quận 4, TP.HCM"
+  },
+  {
+    "id": "SV021",
+    "name": "Phạm Nguyễn Huy Hoàng",
+    "age": "24",
+    "gender": "Nam",
+    "email": "pnhh2801@gmail.com",
+    "phone": "0383246740",
+    "address": "412"
+  }
+]

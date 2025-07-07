@@ -1,0 +1,65 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Thiết lập font và màu sắc mặc định */
+:root {
+  font-family: 'Inter', system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+
+  color: #1f2937; /* gray-800 */
+  background-color: #f9fafb; /* gray-50 */
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+a {
+  @apply text-blue-600 hover:text-blue-800 font-medium underline-offset-2;
+  text-decoration: none;
+}
+
+body {
+  margin: 0;
+  min-width: 320px;
+  min-height: 100vh;
+  @apply bg-gray-50 text-gray-800 antialiased;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  @apply font-semibold text-gray-900;
+}
+
+button {
+  @apply rounded-md border border-transparent px-4 py-2 text-sm font-medium shadow-sm transition duration-200;
+  background-color: #1a1a1a;
+  color: white;
+}
+
+button:hover {
+  border-color: #4f46e5; /* indigo-600 */
+  background-color: #111827; /* gray-900 */
+}
+
+button:focus,
+button:focus-visible {
+  outline: 2px solid #6366f1; /* indigo-500 */
+  outline-offset: 2px;
+}
+
+/* Light/Dark mode (nếu có) */
+@media (prefers-color-scheme: dark) {
+  :root {
+    color: #f9fafb;
+    background-color: #111827;
+  }
+  a {
+    color: #93c5fd;
+  }
+  button {
+    background-color: #374151; /* gray-700 */
+  }
+}
