@@ -13,6 +13,7 @@
     "@ant-design/v5-patch-for-react-19": "^1.0.3",
     "antd": "^5.26.3",
     "axios": "^1.10.0",
+    "bcrypt": "^6.0.0",
     "body-parser": "^2.2.0",
     "cors": "^2.8.5",
     "express": "^5.1.0",

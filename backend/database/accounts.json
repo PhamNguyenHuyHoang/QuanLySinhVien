@@ -103,5 +103,10 @@
     "id": "SV021",
     "email": "pnhh2801@gmail.com",
     "password": "1234"
+  },
+  {
+    "id": "SV022",
+    "email": "hoang@gmail.com",
+    "password": "$2b$10$ski7QTfW0DPXn0V0p8Ugg.Nc7mETbBLZj2iRRBi6or7OoKs17JnaG"
   }
 ]
